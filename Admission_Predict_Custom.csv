@@ -1,0 +1,71 @@
+University Name,Course Name,GRE Score,TOEFL Score,CGPA,Admission Chance
+Stanford University,Computer Science,330,115,9.5,0.946130482
+Harvard University,Data Science,325,110,9,0.966836137
+MIT,Electrical Engineering,335,120,9.8,1
+Caltech,Mechanical Engineering,340,118,9.9,1
+University of Cambridge,Economics,320,112,8.8,0.879954805
+University of Oxford,Medicine,315,108,8.5,0.853540629
+ETH Zurich,Civil Engineering,310,105,8,0.811837773
+University of Chicago,Mathematics,325,111,9,0.96088232
+Columbia University,Physics,330,113,9.3,0.955787972
+Princeton University,Chemistry,335,116,9.7,0.994395493
+University of Toronto,Biology,320,109,8.6,0.850911391
+University of Melbourne,Environmental Science,310,107,8.2,0.916020397
+National University of Singapore,Artificial Intelligence,330,114,9.4,0.985420735
+Tsinghua University,Robotics,340,119,9.9,0.964733911
+University of Tokyo,Aerospace Engineering,320,112,8.7,0.878535438
+Seoul National University,Public Health,315,108,8.4,0.852281627
+University of Sydney,Business Administration,310,105,8.1,0.840453636
+Karolinska Institute,Philosophy,305,103,7.9,0.84509329
+University of Copenhagen,Political Science,300,100,7.5,0.807900384
+Peking University,Psychology,325,110,8.9,0.89688762
+University of Tokyo,Electrical Engineering,301,91,7.19,0.63041
+Caltech,Computer Science,323,99,7.76,0.99813
+ETH Zurich,Mechanical Engineering,322,102,7.74,0.98271
+University of Cambridge,Data Science,337,119,9.09,0.77915
+University of Tokyo,Mathematics,312,114,9.14,0.94132
+University of Toronto,Mechanical Engineering,313,110,7.44,0.59435
+MIT,Data Science,326,95,9.99,0.63944
+University of Tokyo,Artificial Intelligence,324,117,7.8,0.85018
+ETH Zurich,Artificial Intelligence,333,117,9.93,0.92333
+University of Cambridge,Biotechnology,329,101,8.23,0.92816
+Caltech,Mechanical Engineering,311,101,7.1,0.70225
+ETH Zurich,Artificial Intelligence,316,109,8.04,0.94389
+ETH Zurich,Data Science,324,119,8.9,0.92546
+MIT,Biotechnology,290,119,9.04,0.96782
+Oxford University,Data Science,324,100,8.59,0.89267
+University of Cambridge,Biotechnology,326,115,8.34,0.83449
+Harvard University,Mechanical Engineering,336,112,8.66,0.79034
+ETH Zurich,Mathematics,303,117,8.78,0.68614
+Oxford University,Physics,292,114,7.24,0.97007
+Harvard University,Chemical Engineering,290,96,8.11,0.98683
+University of Cambridge,Mathematics,294,119,7.73,0.64196
+Stanford University,Economics,315,90,9.41,0.65268
+University of Toronto,Data Science,303,90,8.41,0.74281
+Oxford University,Economics,328,114,9.95,0.72421
+Imperial College London,Mathematics,316,116,8.2,0.99723
+Stanford University,Biotechnology,298,119,9.45,0.58796
+University of Toronto,Chemical Engineering,304,114,9.4,0.50904
+MIT,Chemical Engineering,304,109,7.45,0.74695
+University of Tokyo,Computer Science,315,102,8.52,0.58941
+Caltech,Chemical Engineering,331,98,9.09,0.68323
+Imperial College London,Physics,302,92,9.58,0.87209
+MIT,Chemical Engineering,321,96,7.98,0.86047
+University of Cambridge,Mathematics,328,95,7.66,0.65403
+MIT,Computer Science,338,97,9.13,0.77127
+University of Tokyo,Mathematics,321,116,9.43,0.75441
+University of Cambridge,Mathematics,293,98,8.05,0.81817
+Imperial College London,Electrical Engineering,319,119,7.29,0.62523
+University of Tokyo,Computer Science,326,94,9.82,0.79494
+Harvard University,Mathematics,312,90,8.19,0.98945
+Caltech,Electrical Engineering,328,108,8.55,0.74337
+Imperial College London,Electrical Engineering,334,99,9.51,0.95305
+Harvard University,Computer Science,304,101,9.03,0.7172
+University of Toronto,Economics,332,113,9.21,0.67504
+Imperial College London,Biotechnology,318,104,7.63,0.82255
+University of Toronto,Physics,325,116,8.62,0.83446
+University of Cambridge,Biotechnology,302,111,9.09,0.93208
+Harvard University,Chemical Engineering,321,113,7.69,0.61509
+Caltech,Physics,296,98,7.52,0.7496
+University of Tokyo,Chemical Engineering,311,109,9.95,0.786
+ETH Zurich,Mathematics,317,106,8.55,0.88428
