@@ -12,9 +12,9 @@ This is a machine learning-based web application that predicts the likelihood of
 
 ## 🚀 Demo
 
+![Demo](assets/output.png)
 
-
-
+![Demo](assets/output-university.png)
 
 ## 📊 Dataset
 
