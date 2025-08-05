@@ -8,7 +8,7 @@ This is a machine learning-based web application that predicts the likelihood of
 - Built using **Python**, **Flask**, and **Scikit-learn**.
 - Clean and minimal **HTML interface** for easy user interaction.
 - Accepts multiple inputs like GRE Score, TOEFL Score and CGPA.
-- Trained and deployed ML model (`LinearRegression`).
+- Trained and deployed ML model (`GradientBoostingClassifier`).
 
 ## 🚀 Demo
 
@@ -28,7 +28,7 @@ This is a machine learning-based web application that predicts the likelihood of
 - **Backend**: Python, Flask
 - **Frontend**: HTML, CSS
 - **ML Libraries**: Pandas, NumPy, Scikit-learn
-- **Model**: Linear Regression
+- **Model**: Gradient Boosting Classifier
 - **Environment**: Virtualenv
 
 ## Create and activate a virtual environment:
